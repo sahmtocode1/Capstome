@@ -1,1 +1,1 @@
-# Capstome
+# Capstone
